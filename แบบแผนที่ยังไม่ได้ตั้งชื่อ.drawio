@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T10:05:33.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="GBmwJrxUXxIWn0kqNPe4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T10:13:22.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="ARNyU8nLrUnQmpesPdm6" type="github">
   <diagram id="jc3KGUTVvT1E_u7E2g3x" name="หน้า-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,7 +149,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kX2poIMsaVfBen5c1JXI-79" value="ตัดสินใจ" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="kX2poIMsaVfBen5c1JXI-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kX2poIMsaVfBen5c1JXI-79" target="kX2poIMsaVfBen5c1JXI-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kX2poIMsaVfBen5c1JXI-95" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kX2poIMsaVfBen5c1JXI-93">
+          <mxGeometry x="0.2204" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kX2poIMsaVfBen5c1JXI-79" value="`กินหรือไม่กิน" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="192.5" y="920" width="125" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kX2poIMsaVfBen5c1JXI-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kX2poIMsaVfBen5c1JXI-85" target="kX2poIMsaVfBen5c1JXI-88">
@@ -162,10 +170,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kX2poIMsaVfBen5c1JXI-88" value="ตั้งใจเรียนสุดๆเพื่อรอเลิกเรียนและตั้งใจเรียนทุกวันเพื่อรอวันหยุด อะฮิ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="942.5" width="210" height="47.5" as="geometry" />
+          <mxGeometry x="700" y="942.5" width="210" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="kX2poIMsaVfBen5c1JXI-90" value="สิ้นสุด" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="685" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="745" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kX2poIMsaVfBen5c1JXI-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kX2poIMsaVfBen5c1JXI-92" target="kX2poIMsaVfBen5c1JXI-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kX2poIMsaVfBen5c1JXI-92" value="เข้าเรียน" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1105" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
